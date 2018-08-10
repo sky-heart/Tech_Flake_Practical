@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tech Flake Practical</string>
+
+    <string name="hint_search">Search…</string>
+</resources>
